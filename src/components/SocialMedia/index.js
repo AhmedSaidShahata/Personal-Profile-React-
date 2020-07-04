@@ -11,7 +11,7 @@ import {
 const SocialMedia = () => {
   const [allSocial, setAllSocial] = useState([]);
   useEffect(() => {
-    axios.get("js/data.json").then((response) => {
+    axios.get("/js/data.json").then((response) => {
       setAllSocial(response.data.social);
     });
   }, []);

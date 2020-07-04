@@ -19,7 +19,7 @@ class Work extends React.Component {
   };
 
   componentDidMount() {
-    axios.get("js/data.json").then((response) => {
+    axios.get("/js/data.json").then((response) => {
       this.setState({
         works: response.data.works,
       });

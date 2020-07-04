@@ -21,7 +21,7 @@ const Profile = () => {
   const [allSkills , setAllAkills] =useState([])
 
   useEffect(()=>{
-    axios.get("js/data.json").then(response=>{
+    axios.get("/js/data.json").then(response=>{
       setAllAkills(response.data.skills)
     })
   },[])
