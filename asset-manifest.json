@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PersonalProfile/static/css/main.6ff1054e.chunk.css",
-    "main.js": "/PersonalProfile/static/js/main.2e7c408b.chunk.js",
-    "main.js.map": "/PersonalProfile/static/js/main.2e7c408b.chunk.js.map",
-    "runtime-main.js": "/PersonalProfile/static/js/runtime-main.8907d454.js",
-    "runtime-main.js.map": "/PersonalProfile/static/js/runtime-main.8907d454.js.map",
-    "static/js/2.d0296670.chunk.js": "/PersonalProfile/static/js/2.d0296670.chunk.js",
-    "static/js/2.d0296670.chunk.js.map": "/PersonalProfile/static/js/2.d0296670.chunk.js.map",
-    "index.html": "/PersonalProfile/index.html",
-    "precache-manifest.5395eb14f0ad4c71020ba218719388b7.js": "/PersonalProfile/precache-manifest.5395eb14f0ad4c71020ba218719388b7.js",
-    "service-worker.js": "/PersonalProfile/service-worker.js",
-    "static/css/main.6ff1054e.chunk.css.map": "/PersonalProfile/static/css/main.6ff1054e.chunk.css.map",
-    "static/js/2.d0296670.chunk.js.LICENSE.txt": "/PersonalProfile/static/js/2.d0296670.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/PersonalProfile/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Personal-Profile-React-/static/css/main.6ff1054e.chunk.css",
+    "main.js": "/Personal-Profile-React-/static/js/main.f0f06023.chunk.js",
+    "main.js.map": "/Personal-Profile-React-/static/js/main.f0f06023.chunk.js.map",
+    "runtime-main.js": "/Personal-Profile-React-/static/js/runtime-main.c7830b98.js",
+    "runtime-main.js.map": "/Personal-Profile-React-/static/js/runtime-main.c7830b98.js.map",
+    "static/js/2.066e4c62.chunk.js": "/Personal-Profile-React-/static/js/2.066e4c62.chunk.js",
+    "static/js/2.066e4c62.chunk.js.map": "/Personal-Profile-React-/static/js/2.066e4c62.chunk.js.map",
+    "index.html": "/Personal-Profile-React-/index.html",
+    "precache-manifest.bac579c8e8bf71dae9336233711d175f.js": "/Personal-Profile-React-/precache-manifest.bac579c8e8bf71dae9336233711d175f.js",
+    "service-worker.js": "/Personal-Profile-React-/service-worker.js",
+    "static/css/main.6ff1054e.chunk.css.map": "/Personal-Profile-React-/static/css/main.6ff1054e.chunk.css.map",
+    "static/js/2.066e4c62.chunk.js.LICENSE.txt": "/Personal-Profile-React-/static/js/2.066e4c62.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Personal-Profile-React-/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8907d454.js",
-    "static/js/2.d0296670.chunk.js",
+    "static/js/runtime-main.c7830b98.js",
+    "static/js/2.066e4c62.chunk.js",
     "static/css/main.6ff1054e.chunk.css",
-    "static/js/main.2e7c408b.chunk.js"
+    "static/js/main.f0f06023.chunk.js"
   ]
 }
